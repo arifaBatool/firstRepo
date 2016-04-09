@@ -1,2 +1,2 @@
 # firstRepo
-This is hello world repo to get started with repo
+This is hello world repo to get started with GitHub
